@@ -24,3 +24,7 @@ Available resources online.
 * [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python). Andreas Muller and Sarah Guido.
 * [Hands-on in Machine Learning with Scikit-Learn, Keras & Tensorflow](https://github.com/ageron/handson-ml2) (ML Notebooks). Aurélien Géron.
 
+
+***
+
+University of Arizona. Data Science Initiative, 2022.
