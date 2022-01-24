@@ -15,3 +15,7 @@ A list of some available resources.
 * [Bayesian Statistics using Julia and Turing](https://storopoli.io/Bayesian-Julia/). José Eduardo Storopoli.
 * [Think Bayes 2nd. Ed. ](http://allendowney.github.io/ThinkBayes2/). Allen B. Downey.
 
+
+***
+
+University of Arizona. Data Science Initiative, 2022.
