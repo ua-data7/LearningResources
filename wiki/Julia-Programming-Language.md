@@ -7,3 +7,6 @@ A list of available online resources.
  
 * [Julia Data Science](https://juliadatascience.io) (2021). Storopoli, Huijzer and Alonso.
 
+***
+
+University of Arizona. Data Science Initiative, 2022.
