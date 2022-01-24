@@ -9,3 +9,7 @@ A small list of available resources.
 ***
 
 * [Papers with code](https://paperswithcode.com)
+
+***
+
+University of Arizona. Data Science Initiative, 2022.
