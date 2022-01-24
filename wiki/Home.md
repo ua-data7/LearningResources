@@ -6,15 +6,15 @@ Welcome to the LearningResources wiki!
 
 Here you will find a collection of digital resources for helping to learn about a variety of Data Science Topics.
 
-* [Datasets](https://github.com/ua-data7/LearningResources/blob/main/wiki/Datasets)
-* [Julia Programming Language](https://github.com/ua-data7/LearningResources/blob/main/wiki/Julia-Programming-Language)
-* [Python Programming Language](https://github.com/ua-data7/LeaningResources/blob/main/wiki/Python-Programming-Language)
-* [R Programming Language](https://github.com/ua-data7/LeaningResources/blob/main/wiki/R-Programming-Language) 
+* [Datasets](https://github.com/ua-data7/LearningResources/blob/main/wiki/Datasets.md)
+* [Julia Programming Language](https://github.com/ua-data7/LearningResources/blob/main/wiki/Julia-Programming-Language.md)
+* [Python Programming Language](https://github.com/ua-data7/LeaningResources/blob/main/wiki/Python-Programming-Language.md)
+* [R Programming Language](https://github.com/ua-data7/LeaningResources/blob/main/wiki/R-Programming-Language.md) 
 
-* [General Data Science](https://github.com/ua-data7/LeaningResources/blob/main/wiki/General-Data-Science)
-* [Machine Learning](https://github.com/ua-data7/LeaningResources/blob/main/wiki/Machine-Learning)
-* [Probability & Statistics](https://github.com/ua-data7/LeaningResources/blob/main/wiki/Probability-&-Statistics)
-* [Reproducible Research](https://github.com/ua-data7/LearningResources/blob/main/wiki/Reproducible-Research)
+* [General Data Science](https://github.com/ua-data7/LeaningResources/blob/main/wiki/General-Data-Science.md)
+* [Machine Learning](https://github.com/ua-data7/LeaningResources/blob/main/wiki/Machine-Learning.md)
+* [Probability & Statistics](https://github.com/ua-data7/LeaningResources/blob/main/wiki/Probability-&-Statistics.md)
+* [Reproducible Research](https://github.com/ua-data7/LearningResources/blob/main/wiki/Reproducible-Research.md)
 
 
 ***
