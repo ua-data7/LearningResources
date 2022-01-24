@@ -8,7 +8,7 @@ Here you will find a collection of digital resources for helping to learn about 
 
 * [Datasets](https://github.com/ua-data7/LearningResources/blob/main/wiki/Datasets.md)
 * [Julia Programming Language](https://github.com/ua-data7/LearningResources/blob/main/wiki/Julia-Programming-Language.md)
-* [Python Programming Language](https://github.com/ua-data7/LearningResources/blob/main/wiki/Python-Programming-Language)
+* [Python Programming Language](https://github.com/ua-data7/LearningResources/blob/main/wiki/Python-Programming-Language.md)
 * [R Programming Language](https://github.com/ua-data7/LearningResources/blob/main/wiki/R-Programming-Language.md) 
 
 * [General Data Science](https://github.com/ua-data7/LearningResources/blob/main/wiki/General-Data-Science.md)
