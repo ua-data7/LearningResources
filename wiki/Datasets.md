@@ -13,3 +13,6 @@ A curated list of common datasets used in data science.
 * [Papers with code Datasets](https://paperswithcode.com/datasets)
 * [Dataset Search Google](https://datasetsearch.research.google.com)
 
+***
+
+University of Arizona. Data Science Initiative, 2022.
